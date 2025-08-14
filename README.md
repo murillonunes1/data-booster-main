@@ -38,35 +38,31 @@ Este projeto é uma aplicação **React** criada com **Vite** que permite gerar 
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/nome-do-projeto.git
-cd nome-do-projeto
+git clone https://github.com/seu-usuario/data-booster-main.git
+cd data-booster-main
+
 Instale as dependências:
 
-bash
-Copiar
-Editar
 npm install
 # ou
 yarn
+
 Rode o projeto:
 
-bash
-Copiar
-Editar
 npm run dev
 # ou
 yarn dev
+
 O projeto estará disponível em http://localhost:5173 (porta padrão do Vite).
 
 Estrutura do Projeto
-bash
-Copiar
-Editar
+
 src/
  ├─ components/        # Componentes reutilizáveis (botão copiar, cards de dados, etc)
  ├─ utils/             # Funções utilitárias para gerar pessoas e empresas
  ├─ App.jsx            # Componente principal
  └─ main.jsx           # Entrada do React
+
 Como Usar
 Abra a aplicação no navegador
 
